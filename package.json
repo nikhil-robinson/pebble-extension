@@ -14,8 +14,8 @@
   "contributes": {
     "commands": [
       {
-        "command": "pebble.helloWorld",
-        "title": "Hello World"
+        "command": "pebble.test",
+        "title": "Test"
       }
     ]
   },
